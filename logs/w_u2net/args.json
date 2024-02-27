@@ -1,0 +1,1 @@
+{"batch_size": 16, "epochs": 200, "lr": 0.001, "logs": "./logs/w_u2net", "model": "w_u2net", "dataset": "liver", "workers": 4, "polar": false, "percent": 1.0}
